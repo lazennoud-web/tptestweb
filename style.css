@@ -75,7 +75,7 @@ h2{
 }
 @media (max-width: 768px) {
     nav {
-        display: fkex;
+        display: flex;
         flex-direction: column;
     }
 }
